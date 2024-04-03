@@ -1,9 +1,9 @@
 ---
 title: "introduction"
 date: "2/4/2024"
-parent: null
-author: "Sifat"
-category: "General"
+parent: introduction
+author: Sifat
+category: testing
 tags: ["Intro", "getting started"]
 ---
 
